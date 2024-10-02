@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Meister Challenge
 
 ## Approach Summary
 
